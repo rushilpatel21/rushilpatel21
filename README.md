@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushil Patel</h1>
 <h3 align="center">A passionate full-stack developer from India.</h3>
 
-- 🔭 My latest project is [CivicPulse](https://github.com/rushilpatel21/CivicPulse).
+- 🔭 My latest project is [Redactify](https://github.com/rushilpatel21/Redactify).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
