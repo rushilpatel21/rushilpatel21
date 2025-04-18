@@ -4,21 +4,6 @@
 
 I'm a Computer Science and Engineering student at Institute of Technology, Nirma University, with a minor in Cyber Security. I love building full-stack applications and exploring machine learning technologies.
 
-
-## 📂 Featured Projects
-
-### [Sentique](https://github.com/rushilpatel21/Sentique)
-A comprehensive feedback analytics platform that automatically processes reviews through a fine-tuned RoBERTa model for category classification and sentiment analysis. Features include a RAG-based chatbot and insights module using Gemini to generate actionable feedback summaries.
-> *Python, Django, Celery, React, TypeScript, PostgreSQL*
-
-### [Redactify](https://github.com/rushilpatel21/Redactify)
-An advanced PII anonymization platform integrating fine-tuned transformer models (BERT, RoBERTa) and Microsoft Presidio, achieving 95%+ precision across 20 PII categories through context-aware entity verification.
-> *Python, Flask, ReactJS, Hugging Face Transformers, Microsoft Presidio*
-
-### [Civic Pulse](https://github.com/rushilpatel21/CivicPulse)
-A civic engagement platform leveraging Firebase, GCP, and Gemini to create an intelligent system that automatically routes community issues to appropriate municipal departments.
-> *ReactJS, ExpressJS, NodeJS, Firebase, Google Cloud Platform*
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
