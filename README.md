@@ -1,10 +1,10 @@
-# <div align="center">👋 Hi, I'm Rushil Patel</div>
+# <div align="center">Hi, I'm Rushil Patel</div>
 
 ## <div align="center">Passionate Full-Stack Developer & ML Enthusiast</div>
 
 I'm a Computer Science and Engineering student at Institute of Technology, Nirma University, with a minor in Cyber Security. I love building full-stack applications and exploring machine learning technologies.
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <!-- Programming Languages -->
@@ -98,7 +98,7 @@ I'm a Computer Science and Engineering student at Institute of Technology, Nirma
   </a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rushilpatel21&show_icons=true&locale=en&layout=compact&theme=radical" alt="rushilpatel21" />
@@ -108,14 +108,14 @@ I'm a Computer Science and Engineering student at Institute of Technology, Nirma
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushilpatel21&theme=radical" alt="rushilpatel21" />
 </div>
 
-## 🎓 Education
+## Education
 
 **Bachelor of Technology, Computer Science and Engineering (CSE)**  
 *with Minor in Cyber Security*  
 Institute of Technology, Nirma University  
 September 2022 - May 2026
 
-## 📫 Connect with me
+## Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/rushilpatel21" target="blank">
